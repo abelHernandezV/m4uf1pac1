@@ -1,0 +1,49 @@
+
+div#agenda{
+    text-align: center;
+}
+
+table {
+    background-color:burlywood;
+  
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+}
+
+h2#titagenda {
+    margin-left: -29em;
+}
+
+form h2 {
+    margin-left: -6em;
+}
+
+div#agenda table {
+   
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    float: left;
+    width: 50%;
+    height: 15em;
+    margin-bottom: 2em;
+    margin-left:2em;
+}
+
+div#lista-notificaciones {
+   
+    width: 40%;
+    height: 10em;
+    margin-top: -2em;
+    float:right;
+}
+
+textarea{
+    background-color: burlywood;
+    opacity: 0.3;
+}
+
+footer {
+    margin-top: 16em;
+}

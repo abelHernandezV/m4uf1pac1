@@ -1,0 +1,51 @@
+main  {
+    background-color: black;
+    color: white;
+    padding-top: 2em;
+    padding-bottom: 2em;
+    margin-top: -2em;
+    margin-bottom: -2em;
+}
+
+h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+    margin-left: 13em;
+}
+
+input  {
+    margin: 0.5em;
+}
+
+label {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 6em;
+}
+
+div#formulario form {
+    color: black;
+    background-color: lightgrey;
+    border: 6px solid black;
+    border-radius: 1.5em;
+    width: 30%;
+    padding: 3em;
+    margin-bottom: 2em;
+    margin-left: 7em;
+}
+
+div#texttarea {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin-top: 3em;
+}
+
+div#texttarea textarea {
+    margin-top: 1em;
+}
+
+div#mapa iframe {
+    width: 40%;
+    float: right;
+    margin-right: 7em;
+    margin-top: -32em;
+}

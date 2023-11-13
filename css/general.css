@@ -1,0 +1,33 @@
+main  {
+    text-align: center;
+}
+
+main img {
+    background-color: black;
+    padding-left: 38.1em;
+    padding-right: 38.1em;
+    margin-top: -2em;
+    margin-bottom: -1em;
+}
+
+article{
+    background-color: black;
+    padding-bottom: 4em;
+}
+
+article h2 strong {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:white
+}
+
+article div p {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    margin: 3em;
+    margin-left: 26em;
+    padding: 5em;
+    background-color:lightgrey;
+    border: 5px solid;
+    border-radius: 10em;
+
+}
